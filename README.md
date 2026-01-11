@@ -23,21 +23,25 @@ It’s designed to be straightforward and easy to use, giving insight into how O
 
 ---
 
-## 🚀 Features 
+## 🚀 Features
+
+- Lightweight and minimal  
 - Easy to run and understand  
 - No logging or data storage  
 - Uses publicly available connection data only  
 
 ---
 
-## 🛠️ Usage
+## 🛠️ How to Use
 
-Recommended use cases:
-- Testing your own connections  
-- Controlled or demo environments  
-- Situations where consent is given  
+1. Open **Omegle** in your browser  
+2. Start a chat session  
+3. Right-click anywhere on the page and select **Inspect**  
+4. Go to the **Console** tab  
+5. Paste the tool code into the console  
+6. Press **Enter** to run  
 
-You are responsible for how you use this tool.
+The connection information will appear directly in the console output.
 
 ---
 
