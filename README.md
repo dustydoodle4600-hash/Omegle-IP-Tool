@@ -1,77 +1,55 @@
-# Omegle IP Tool (Educational)
+# Omegle IP Tool
 
-⚠️ **DISCLAIMER:** This project is for **educational and research purposes only**.  
-Do **NOT** use this tool to harass, stalk, threaten, or invade the privacy of others.  
-Misuse of this software may violate laws and platform terms of service.  
-**The author is not responsible for any misuse.**
+A simple utility for viewing connection-related IP information during Omegle sessions.
+
+⚠️ Use responsibly. This tool is intended for informational and testing purposes.
 
 ---
 
 ## 📌 About
 
-This repository contains an **educational tool** designed to demonstrate how IP-related data can be exposed in peer-to-peer communication platforms like Omegle.
+This repository contains a tool that displays basic network and IP-related information associated with Omegle peer connections.
 
-The purpose of this project is to:
-- Educate users about **online privacy risks**
-- Help developers understand **network-level information exposure**
-- Promote safer online behavior
-
-This tool is **not intended for malicious use**.
+It’s designed to be straightforward and easy to use, giving insight into how Omegle connections behave at a network level without unnecessary complexity.
 
 ---
 
-## 🧠 What This Demonstrates
+## 🧠 What It Does
 
-- How peer-to-peer connections can expose network metadata  
-- Why VPNs and privacy tools matter  
-- The importance of platform-side protections  
-- General IP geolocation concepts (approximate, not exact)
+- Shows peer IP information during a session  
+- Displays basic connection-related data  
+- Helps visualize how Omegle connects users  
+- Demonstrates the limits of IP-based information  
 
 ---
 
-## 🚀 Features
-
-- Lightweight and simple design  
-- Shows **public IP information only**
-- No data storage or logging  
-- Intended for testing in **controlled environments**
+## 🚀 Features 
+- Easy to run and understand  
+- No logging or data storage  
+- Uses publicly available connection data only  
 
 ---
 
 ## 🛠️ Usage
 
-This project should only be used:
-- On **your own connections**
-- In **test environments**
-- With **explicit consent**
+Recommended use cases:
+- Testing your own connections  
+- Controlled or demo environments  
+- Situations where consent is given  
 
-If you do not understand the legal or ethical implications, **do not use this tool**.
+You are responsible for how you use this tool.
 
 ---
 
-## 🔐 Privacy & Ethics
+## 🔐 Notes
 
-Respect privacy.  
-Do not target real users.  
-Do not attempt to deanonymize individuals.
-
-If you're interested in privacy, consider learning about:
-- VPNs
-- NAT & firewalls
-- WebRTC leaks
-- Network security fundamentals
+- IP information is approximate and not exact  
+- Do not use this tool to harass or target others  
+- This project focuses on understanding connections, not abusing them  
 
 ---
 
 ## 📜 License
 
-This project is released under the **MIT License**.  
-You are free to modify and learn from it — **not abuse it**.
-
----
-
-## ❗ Final Note
-
-If you are using this repository for anything other than learning or security research, **stop**.
-
-Online anonymity and privacy matter.
+MIT License  
+Free to use, modify, and explore.
