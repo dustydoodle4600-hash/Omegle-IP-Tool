@@ -43,6 +43,8 @@ It’s designed to be straightforward and easy to use, giving insight into how O
 
 The connection information will appear directly in the console output.
 
+* IF THAT DONT WORK PLEASE ADD IT TO TAMPER MONKEY! *
+
 ---
 
 ## 🔐 Notes
